@@ -282,7 +282,7 @@ def unique_rows(data):
 #C:\Users\Ken\Desktop\WT DsRed-mt labelled mt.avi
 
 
-cap = cv2.VideoCapture(r'/home/ken/Downloads/Tracking program II/desred-2good1.avi')
+cap = cv2.VideoCapture(r'/desred-2good1.avi')
 #cv2.namedWindow('original')    
 #cv2.createTrackbar('Threshold','video',0,255,nothing)
 
